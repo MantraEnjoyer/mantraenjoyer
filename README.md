@@ -1,5 +1,13 @@
-## Hi there 👋
-
+# Hello world
+I'm Mantra, gamedev student from Poland.
+I would like to expand my skills in Game Design, Project Management and Programming 
+I'm Currently working on student projects
+## Tools & Tech
+- Notion
+- Unity
+## About Me
+- Master 303 lp peak
+- Bard enthusiast
 <!--
 **MantraEnjoyer/mantraenjoyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
