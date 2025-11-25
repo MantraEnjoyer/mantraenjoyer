@@ -8,6 +8,7 @@ I'm Currently working on student projects
 ## About Me
 - Master 303 lp peak
 - Bard enthusiast
+- 110 WPM
 <!--
 **MantraEnjoyer/mantraenjoyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
