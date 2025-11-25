@@ -1,6 +1,6 @@
 # Hello world
-I'm Mantra, gamedev student from Poland.
-I would like to expand my skills in Game Design, Project Management and Programming 
+I'm Mantra, gamedev student from Poland\
+I would like to expand my skills in Game Design, Project Management and Programming\
 I'm Currently working on student projects
 ## Tools & Tech
 - Notion
