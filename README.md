@@ -6,6 +6,8 @@ I'm Currently working on student projects
 - Unity
 - Notion
 - Trello
+## Finished Projects
+- [Newman](https://github.com/FluidHedgehog/Newman-portfolio)
 ## About Me
 - Master 303 lp peak
 - Bard enthusiast
