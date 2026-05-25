@@ -8,7 +8,7 @@ I'm Currently working on student projects
 - Trello
 ## Finished Projects
 ### [Newman](https://github.com/FluidHedgehog/Newman-portfolio)
-- - A RogueLike platformer where players must jump to the top of a tower, defeating various enemies along the way
+- A RogueLike platformer where players must jump to the top of a tower, defeating various enemies along the way
 ## About Me
 - Master 303 lp peak
 - Bard enthusiast
