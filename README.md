@@ -1,6 +1,6 @@
 # Hello world
 I'm Mantra, gamedev student from Poland\
-I would like to expand my skills in Game Design, Project Management and Programming\
+I would like to expand my skills in Game Design, Project Management and Programming
 I'm Currently working on student projects
 ## Tools & Tech
 - Unity
@@ -8,7 +8,10 @@ I'm Currently working on student projects
 - Trello
 ## Finished Projects
 ### [Newman](https://github.com/FluidHedgehog/Newman-portfolio)
+Game Designer, Project Manager
 - A RogueLike platformer where players must jump to the top of a tower, defeating various enemies along the way
+- I'm glad I had the pleasure of working with such talented people
+- Thanks to this project, I learned how to create games that support gamepads.
 ## About Me
 - Master 303 lp peak
 - Bard enthusiast
